@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "sam",
+      "avatar":"https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "email":"sam@gmail.com",
+      "password":"sam1234"
+    }
+  ],
+  "posts": [
+    {
+      "id" : 1,
+      "username": "coreyschafer",
+      "title": "Be Present",
+      "avatar":"https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category" : "Entertainment",
+      "date" : "2017-06-01",
+      "likes" : 24,
+      "comments" : [{ "username" : "Jane", "avatar":"http://view.jqueryfuns.com/2016/1/4/473fb10ece7afbcf197ea0c1578d71a7/img/avatar/big.jpg", "content" : "Good One"}, { "username" : "Bob", "avatar":"https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80", "content" : "Loved It!"}]
+    }
+  ]
+}
